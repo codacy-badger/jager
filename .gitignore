@@ -8,3 +8,6 @@ cache/
 /venv
 *.log
 .DS_Store
+*.jar
+/.gradle
+/gradle
