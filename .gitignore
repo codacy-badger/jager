@@ -12,3 +12,4 @@ cache/
 /.gradle
 /gradle
 /out
+config.json
